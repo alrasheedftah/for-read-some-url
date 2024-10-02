@@ -1,4 +1,4 @@
 # for-read-some-url
 readome
 
-https://akdashish07.medium.com/resolving-gpg-error-for-docker-repository-on-ubuntu-a-step-by-step-guide-d1f642712209
+sudo apt-key del 9DC8 5822 9FC7 DD38 854A E2D8 8D81 803C 0EBF CD88
